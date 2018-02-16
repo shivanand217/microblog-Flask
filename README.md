@@ -1,4 +1,4 @@
-# microblog-Flask
 
-Flask microblog 
-Simple Yet Powerful microblog application built with flask 
+# Flask microblog 
+
+Microblog application built with flask 
